@@ -73,16 +73,6 @@
     <li>Set up environment variables:
       <pre><code>
 PORT=5000
-DB_HOST=localhost
-DB_USER=your_mysql_username
-DB_PASSWORD=your_mysql_password
-DB_NAME=filee
-JWT_SECRET=your_secret_key
-AWS_ACCESS_KEY=your_aws_access_key
-AWS_SECRET_KEY=your_aws_secret_key
-AWS_BUCKET_NAME=your_s3_bucket_name
-AWS_REGION=your_aws_region
-FIREBASE_SERVER_KEY=your_firebase_server_key
       </code></pre>
     </li>
     <li>Configure Firebase Cloud Messaging:
@@ -135,7 +125,7 @@ npx react-native run-ios      # For iOS
   <ul>
     <li><strong>Vinod Vadla</strong></li>
     <li>Email: <a href="mailto:vinodvinod0979@gmail.com">vinodvinod0979@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://linkedin.com/in/ginur" target="_blank">linkedin.com/in/ginur</a></li>
+    <li>LinkedIn: <a href="https://linkedin.com/in/vinodvadla" target="_blank">linkedin.com/in/ginur</a></li>
   </ul>
 </body>
 </html>
