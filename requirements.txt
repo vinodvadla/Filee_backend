@@ -36,7 +36,7 @@ Client Requirements for File Storage and Sharing App (Similar to Google Drive)
    - Encryption for files in transit (SSL) and at rest (AES).
    - Access logs for tracking who accessed/modified files.
    - Granular control over file permissions.
-
+    
 8. Mobile App Features:
    - Offline access for viewing files.
    - Push notifications for important events.
