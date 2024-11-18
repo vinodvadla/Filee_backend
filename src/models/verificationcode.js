@@ -12,6 +12,7 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
     }
   }
+
   VerificationCode.init(
     {
       email: DataTypes.STRING,
@@ -19,6 +20,7 @@ module.exports = (sequelize, DataTypes) => {
       expires: DataTypes.STRING,
       code: DataTypes.STRING,
       name: DataTypes.STRING,
+      password: DataTypes.STRING,
     },
     {
       sequelize,
