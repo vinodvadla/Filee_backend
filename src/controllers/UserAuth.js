@@ -113,6 +113,8 @@ const login = asyncHandler(async (req, res) => {
 
   console.log(user);
   console.log(email, password);
+
+  console.log(user);
   const isPasswordValid = await bcrypt.compare(password, user.password);
   if (!isPasswordValid) {
     return res
