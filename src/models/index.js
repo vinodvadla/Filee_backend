@@ -53,7 +53,7 @@ const syncDb = async () => {
   }
 };
 
-syncDb()
+// syncDb()
 db.sequelize = sequelize;
 db.Sequelize = Sequelize;
 

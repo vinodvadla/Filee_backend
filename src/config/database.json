@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "7144",
+    "password": "",
     "database": "filee_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
